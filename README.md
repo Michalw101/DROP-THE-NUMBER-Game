@@ -1,5 +1,5 @@
 Drop The Numbers Game
-by Michal & Gila
+by Michal & Gila (@gilakassab)
 
 Drop The Numbers Game
 Collect points by merging number cubes!
